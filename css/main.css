@@ -75,6 +75,10 @@ body {
   width: 100%;
 }
 
+.banner a:focus {
+  outline: 3px solid #fff;
+}
+
 .banner div {
   grid-area: banner;
   align-self: center;
